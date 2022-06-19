@@ -1,0 +1,12 @@
+#instruction{
+  color: black;
+  
+    float: right;
+}
+#heading{
+    float:left;
+    color:white;
+}
+.header{
+    width:100%;
+}
